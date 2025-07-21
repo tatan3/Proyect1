@@ -1,3 +1,8 @@
+"""
+Autor: Jhonatan David Pinto Andrade
+Fecha:20/07/2025
+Descripcion: Proyecto liga Betplay.
+"""
 import os  
 
 def clear_console():
